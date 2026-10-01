@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stacksail.com/sitemap.xml
